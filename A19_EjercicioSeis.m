@@ -21,7 +21,7 @@ disp('valor de la funcion')
 disp('f : (-20:20)  -> R dada por f(x)=x^4+1/x^3')
 disp('NO ES INYECTIVA')
 disp('NO ES SOBREYECTIVA ')
-disp('SI ES BIYECTIVA ya que son mismos resultados utilizando tanto el negativo como pusitivo')
+disp('SI ES BIYECTIVA ya que son mismos resultados utilizando tanto el negativo como positivo')
 
 % Funcion InyectivaSobreyectivaBiyectiva
 x=[-20:1:20];
