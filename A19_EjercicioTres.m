@@ -19,9 +19,9 @@ syms x
 % Porblema Tres
 disp('valor de la funcion')
 disp('g : ( -15,20]  -> R dada por f (x)=x^3')
-disp('SI ES INYECTIVA')
-disp('NO ES SOBREYECTIVA ')
-disp('NO ES BIYECTIVA')
+disp('SI ES INYECTIVA por que  en Teoria cada elemento a le corresponde unica mente a un elemento b')
+disp('NO ES SOBREYECTIVA ya que en Teoria deberia un elemento de llegada le corresponde por lo menos un elemento de partida ')
+disp('NO ES BIYECTIVA ya que en Teoria deberia ser al mismo timepo inyectiva y sobreyectiva')
 
 % Funcion InyectivaSobreyectivaBiyectiva
 x=(-15:1:20);
