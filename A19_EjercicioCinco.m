@@ -23,7 +23,7 @@ disp('Usando los randos de -30,-1')
 disp('SI ES INYECTIVA ya que los elementos son unicos para cada uno')
 disp('NO ES SOBREYECTIVA ')
 disp('Tambien utilizando todo el rango')
-disp('SI ES BIYECTIVA ya que son mismos resultados utilizando tanto el negativo como pusitivo')
+disp('SI ES BIYECTIVA ya que son mismos resultados utilizando tanto el negativo como positivo')
 
 % Funcion InyectivaSobreyectivaBiyectiva
 v=(-30:1:-1);
