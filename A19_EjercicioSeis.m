@@ -1,6 +1,6 @@
 % Octave Script
 % School         : Tecnologico de Estdios Superiores de Jilotepec
-% Date           :20211115
+% Date           :20211116
 % Title          :Funcion inyectiva, Subrayectiva y Biyectiva
 % Description    :Script realizacion de problemas y haci identificar que funcion es del mismo
 % Author         :Jennifer Guadalupe Angeles Hernandez (Jenny)
@@ -19,9 +19,9 @@ syms x
 % Porblema Seis
 disp('valor de la funcion')
 disp('f : (-20:20)  -> R dada por f(x)=x^4+1/x^3')
-disp('SI ES INYECTIVA')
+disp('NO ES INYECTIVA')
 disp('NO ES SOBREYECTIVA ')
-disp('NO ES BIYECTIVA')
+disp('SI ES BIYECTIVA ya que son mismos resultados utilizando tanto el negativo como pusitivo')
 
 % Funcion InyectivaSobreyectivaBiyectiva
 x=[-20:1:20];
