@@ -1,6 +1,6 @@
 % Octave Script
 % School         : Tecnologico de Estdios Superiores de Jilotepec
-% Date           :20211115
+% Date           :20211116
 % Title          :Funcion inyectiva, Subrayectiva y Biyectiva
 % Description    :Script realizacion de problemas y haci identificar que funcion es del mismo
 % Author         :Jennifer Guadalupe Angeles Hernandez (Jenny)
@@ -19,9 +19,9 @@ syms x
 % Porblema Dos
 disp('valor de la funcion')
 disp('g : ( 0,40) -> (0,infinito) dada por h (x)=x^2')
-disp('SI ES INYECTIVA')
-disp('NO ES SOBREYECTIVA ')
-disp('NO ES BIYECTIVA')
+disp('SI ES INYECTIVA en Teoria si cada elemento a le corresponde un solo y unico elemento de b')
+disp('NO ES SOBREYECTIVA en Teoria en cada elemento de conjunto de llegada le corresponde por lo menos un elemento del conjunto de partida')
+disp('NO ES BIYECTIVA en Teoria si es al mismo tiempo es inyectiva  y sobrectiva')
 
 % Funcion InyectivaSobreyectivaBiyectiva
 x=(0:1:40);
